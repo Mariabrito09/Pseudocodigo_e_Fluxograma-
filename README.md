@@ -2,7 +2,7 @@
 
 Este repositório contém as atividades desenvolvidas para o curso de **Desenvolvimento de Sistemas no SENAI**. O objetivo principal é exercitar o pensamento lógico e a estruturação de algoritmos através da criação de pseudocódigos e fluxogramas para situações do cotidiano.
 
---
+---
 
 ## 📋 Atividades Realizadas
 
